@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    batch_api (0.3.0)
+    batch_api (0.3.1)
       middleware
 
 GEM
@@ -203,3 +203,6 @@ DEPENDENCIES
   sqlite3
   test-unit
   timecop
+
+BUNDLED WITH
+   1.11.2
